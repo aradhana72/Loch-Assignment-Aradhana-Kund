@@ -1,0 +1,11 @@
+.app-container {
+  height: 100vh;
+}
+
+@media screen and (min-width: 1000px) {
+  /* Web */
+  .app-container {
+    display: flex;
+    height: 100vh;
+  }
+}
